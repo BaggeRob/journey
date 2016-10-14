@@ -1,5 +1,3 @@
-
 test('First test', () => {
-  expect(false).toBe(false);
-
-});
+  expect(false).toBe(false)
+})
